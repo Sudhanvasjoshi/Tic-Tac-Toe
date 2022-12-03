@@ -1,0 +1,14 @@
+table td {
+    border: 2px solid white;
+    width: 100px ;
+    height: 100px;
+    align-items: center;
+    text-align: center;
+}
+  
+/* .containerr{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+} */
